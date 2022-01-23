@@ -37,9 +37,9 @@ Worked on java , hybris framework and promotion engine. Created registration pro
 
 ## Education
 
-### **GURU NANAK DEV UNIVERSITY**
-### BTech Computer Science (2012- 2016)
-GPA 8.75
+### **SASTRA UNIVERISTY**
+### BTech Civil Engineering (2012- 2016)
+GPA 7.85
 
 ---
 
